@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/will363/qr-code-component.git)
+- Live Site URL: [Add live site URL here](https://will363.github.io/qr-code-component/)
 
 ## My process
 
@@ -91,7 +91,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Willem](https://www.your-site.com)
-- Frontend Mentor - [@willem363](https://www.frontendmentor.io/profile/willem363)
+- Frontend Mentor - [@will363](https://www.frontendmentor.io/profile/will363)
 - Twitter - [@WilliamTokam237](https://www.twitter.com/WilliamTokam237)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
